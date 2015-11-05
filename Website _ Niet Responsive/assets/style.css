@@ -1,0 +1,19 @@
+body {
+	background-color: brown;
+}
+
+.logo {
+	font-family: impact;
+	font-size: 48px;
+	color: white;
+}
+
+.wrapper
+{
+	background-color: white;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	width: 90%;
+	margin-left: 5%;
+}
