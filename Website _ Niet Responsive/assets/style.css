@@ -6,23 +6,26 @@ body
 .logo 
 {
 	font-family: impact;
-	font-size: 48px;
+	font-size: 48pt;
 	color: white;
 }
 
 .wrapper
 {
+	border-radius: 10px;
 	background-color: white;
 	border-style: solid;
 	border-color: grey;
 	border-width: 1px;
-	width: 90%;
-	margin-left: 5%;
+	width: 60%;
+	margin-left: 20%;
 }
 
 .menu
 {
 	text-align: center;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
 	background-color: #AB4E02;
 	width: 99.7%;
 	font-family: impact;
@@ -37,9 +40,10 @@ body
 {
 	width: 99.7%;
 	font-family: calibri;
-	padding-top: 5px;
-	padding-left: 5px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
 }
 
 .menu a 
